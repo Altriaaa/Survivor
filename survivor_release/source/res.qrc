@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/map">
+        <file>square.png</file>
+        <file>obstacle.png</file>
+        <file>character0.png</file>
+        <file>monster.png</file>
+        <file>normal_bullet.png</file>
+        <file>monster2.png</file>
+        <file>catbomb.png</file>
+        <file>deadbomb.png</file>
+        <file>character0_fullsize.png</file>
+        <file>character1_fullsize.png</file>
+        <file>character1.png</file>
+        <file>magicball.png</file>
+        <file>evilball.png</file>
+        <file>coin.png</file>
+    </qresource>
+    <qresource prefix="/character"/>
+</RCC>

@@ -1,0 +1,15 @@
+money=100
+c1_limhealth=350
+c1_damage=20
+c1_speed=7
+c1_atk_f=1000
+c1_atk_r=360
+c1_atk_s=9
+c2_limhealth=280
+c2_damage=30
+c2_speed=7
+c2_atk_f=800
+c2_atk_r=400
+c2_atk_s=4
+money_k=200
+lives=1
